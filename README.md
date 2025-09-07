@@ -36,7 +36,7 @@ This app displays the current time and date inside a stylish circular clock face
 
 ## Screenshot
 
-![Digital Clock Screenshot](screenshot.png)
+![Digital Clock Screenshot](clock.png)
 
 ---
 
